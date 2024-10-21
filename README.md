@@ -1,1 +1,1 @@
-![alt text](https://github.com/arminnv/Atari-Breakout/Gameplay.jpg?raw=true)
+![alt text](https://github.com/arminnv/Atari-Breakout/blob/Gameplay.jpg?raw=true)
